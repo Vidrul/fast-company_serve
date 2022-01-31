@@ -1,0 +1,6 @@
+{
+  "port": 8080,
+  "mongoUri": "mongodb+srv://david:jfd-dev-12345@cluster0.xoslp.mongodb.net/app?retryWrites=true&w=majority",
+  "accessSecret": "super secret cipher",
+  "refreshSecret": "super secret refresh cipher"
+}
